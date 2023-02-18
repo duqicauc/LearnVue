@@ -1,6 +1,6 @@
 <script setup>
 import HelloWorld from './components/HelloWorld.vue'
-import test1 from './components/test1.vue';
+import CodeTest_01 from './components/CodeTest_01.vue';
 </script>
 
 <template>
@@ -13,7 +13,7 @@ import test1 from './components/test1.vue';
     </a>
   </div>
   <HelloWorld msg="Vite + Vue" />
-  <test1 msg="阿杜"/>
+  <CodeTest_01 msg="阿杜"/>
 </template>
 
 <style scoped>
